@@ -7,4 +7,4 @@ For more details, each of the project has its own README.
 
 ## License
 
-Each of the project has MIT License.
+Each project has MIT License.
